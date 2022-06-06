@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rimvelvet31
+- 👀 I’m interested in software engineering, data science, 
+- 🌱 I’m currently learning C, JavaScript, and Python 
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me ...
