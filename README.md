@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rimvelvet31
+- 👋 Hi, I’m Red Importante
 - 👀 I’m interested in software engineering, data science, and web development
-- 🌱 I’m currently learning C, Java, JavaScript, and Python 
+- 🌱 I’m currently learning C, Java, Python, and Web Development 
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...
