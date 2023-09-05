@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Red Importante
-- 👀 I’m interested in software engineering, data science, and web development
-- 🌱 I’m currently learning C, Java, Python, and Web Development 
+- 👀 I’m interested in Web Development, AI, and UI/UX
+- 🌱 I’m currently learning React and Django
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 You can reach me at redimportante13@gmail.com
